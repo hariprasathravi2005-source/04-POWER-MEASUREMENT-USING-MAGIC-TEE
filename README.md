@@ -79,7 +79,7 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 **H.	Conclusions: (Write your Own)**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB 
 
 **Precautions:**
 
